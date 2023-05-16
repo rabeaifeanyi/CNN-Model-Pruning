@@ -1,5 +1,6 @@
 # AUT Projekt SoSe23
-## Dimensionsreduzierung von KI-Modellen für die Bildverarbeitung (Modell-Pruning)
+## Dimensionsreduzierung von KI-Modellen für die Bildverarbeitung 
+## (Modell-Pruning)
 
 
 ## Adding files
