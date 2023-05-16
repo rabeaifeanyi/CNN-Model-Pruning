@@ -5,7 +5,7 @@
 - Tom Wolf (tom.wolf@ipk.fraunhofer.de)
 - Clemens Briese (clemens.briese@ipk.fraunhofer.de)
 
-## Authoren
+## Autoren
 - Leandro Carrion Bennewart
 - Rabea Eschenhagen
 - Robert Komorowski
