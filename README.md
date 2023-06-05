@@ -6,8 +6,8 @@
 - Clemens Briese (clemens.briese@ipk.fraunhofer.de)
 
 ## Autoren
-- Leandro Carrion Bennewart
+- Leandro Carrión Bennewart
 - Rabea Eschenhagen
 - Robert Komorowski
-- Andres Parilli Fonseca
+- Andres Eduardo Parilli Fonseca
 - Sedat Süzer
