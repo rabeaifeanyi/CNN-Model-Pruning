@@ -17,6 +17,6 @@
 - Sedat Süzer
 
 ## TUB-Cloud Ordner
-- Sammeln von Ideen im [AUT-Ordner](https://tubcloud.tu-berlin.de/f/3623959123)
+- Ideen und Meeting-Protokolle [AUT-Ordner](https://tubcloud.tu-berlin.de/f/3623959123)
 
 
