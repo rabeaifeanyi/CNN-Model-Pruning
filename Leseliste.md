@@ -6,6 +6,7 @@
 
 ## Leichtere Texte
 - **_A Beginner's Guide to Neural Network Pruning_** [Link](https://analyticsindiamag.com/a-beginners-guide-to-neural-network-pruning/)
+- **_Pruning in Deep Learning Models_** [Link](https://medium.com/@souvik.paul01/pruning-in-deep-learning-models-1067a19acd89)
   
 ## Videos
 - **_Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks_** [Paper](https://arxiv.org/abs/2102.00554)<br>
