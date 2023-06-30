@@ -7,6 +7,15 @@
 ## Leichtere Texte
 - **_A Beginner's Guide to Neural Network Pruning_** [Link](https://analyticsindiamag.com/a-beginners-guide-to-neural-network-pruning/)
 - **_Pruning in Deep Learning Models_** [Link](https://medium.com/@souvik.paul01/pruning-in-deep-learning-models-1067a19acd89)
+
+  
+## Tutorials
+- **_PyTorch Pruning Tutorial_** [Tutorial](https://pytorch.org/tutorials/intermediate/pruning_tutorial.html)
+
+
+## Repositorys
+- **_Visualisierung von CNNs_** [Repository](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+
   
 ## Videos
 - **_Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks_** [Paper](https://arxiv.org/abs/2102.00554)<br>
@@ -29,11 +38,5 @@ alt="Convolutional Neural Networks (CNNs) Explained" width="240" height="180" bo
 " target="_blank"><img src="http://img.youtube.com/vi/mH6Jy2COhFQ/0.jpg" 
 alt="Neuronale Netze - Basiswissen" width="240" height="180" border="10" /></a><br>
   
-  
-## Tutorials
-- **_PyTorch Pruning Tutorial_** [Tutorial](https://pytorch.org/tutorials/intermediate/pruning_tutorial.html)
 
-
-## Repositorys
-- **_Visualisierung von CNNs_** [Repository](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
  
