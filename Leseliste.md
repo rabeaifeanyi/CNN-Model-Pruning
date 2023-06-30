@@ -33,7 +33,7 @@ alt="Neuronale Netze - Basiswissen" width="240" height="180" border="10" /></a><
 ## Tutorials
 - **_PyTorch Pruning Tutorial_** [Tutorial](https://pytorch.org/tutorials/intermediate/pruning_tutorial.html)
 
-  
 
-
+## Repositorys
+- **_Visualisierung von CNNs_** [Repository](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
  
