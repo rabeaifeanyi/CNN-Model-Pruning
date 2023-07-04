@@ -3,6 +3,8 @@
 ## Literatur
 - **_Structured Pruning for Deep Convolutional Neural Networks: A survey_** [Paper](https://arxiv.org/abs/2303.00566)
 - **_What is the State of Neural Network Pruning?_** [Paper](https://arxiv.org/abs/2003.03033)
+- **_Conceptual Understanding of Convolutional Neural Network- A Deep Learning Approach_** [Paper](https://www.sciencedirect.com/science/article/pii/S1877050918308019)
+- **_Modeling of Pruning Techniques for Deep Neural Networks Simplification_** [Paper](https://arxiv.org/abs/2001.04062)
 
 ## Leichtere Texte
 - **_A Beginner's Guide to Neural Network Pruning_** [Link](https://analyticsindiamag.com/a-beginners-guide-to-neural-network-pruning/)
