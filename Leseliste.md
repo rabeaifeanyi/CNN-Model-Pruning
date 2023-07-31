@@ -9,8 +9,7 @@
 - **_Machine learning: An algorithmic perspective. (Chapter 4)_** [Buchkapitel]()
 - **_Pruning Filters for Efficient ConvNets_** [Paper](https://arxiv.org/pdf/1608.08710)
 - **_Very Deep Convolutional Networks for Large-Scale Image Recognition_** [Paper](https://arxiv.org/pdf/1409.1556)
-- **_Structured Pruning for Deep Convolutional Neural Networks: A survey_** [Paper](https://arxiv.org/pdf/2303.00566)
-- 
+
 
 ## Leichtere Texte
 - **_A Beginner's Guide to Neural Network Pruning_** [Link](https://analyticsindiamag.com/a-beginners-guide-to-neural-network-pruning/)
