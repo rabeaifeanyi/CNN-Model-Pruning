@@ -5,6 +5,9 @@
 - **_What is the State of Neural Network Pruning?_** [Paper](https://arxiv.org/abs/2003.03033)
 - **_Conceptual Understanding of Convolutional Neural Network- A Deep Learning Approach_** [Paper](https://www.sciencedirect.com/science/article/pii/S1877050918308019)
 - **_Modeling of Pruning Techniques for Deep Neural Networks Simplification_** [Paper](https://arxiv.org/abs/2001.04062)
+- **_Machine learning: An algorithmic perspective. (Chapter 4)_**[Buchkapitel]()
+- **_Pruning Filters for Efficient ConvNets_**
+- **_Very Deep Convolutional Networks for Large-Scale Image Recognition_**
 
 ## Leichtere Texte
 - **_A Beginner's Guide to Neural Network Pruning_** [Link](https://analyticsindiamag.com/a-beginners-guide-to-neural-network-pruning/)
