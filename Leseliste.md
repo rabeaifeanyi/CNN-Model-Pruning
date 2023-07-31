@@ -2,12 +2,15 @@
 
 ## Literatur
 - **_Structured Pruning for Deep Convolutional Neural Networks: A survey_** [Paper](https://arxiv.org/abs/2303.00566)
+- **_Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks_** [Paper](https://arxiv.org/abs/2102.00554)
 - **_What is the State of Neural Network Pruning?_** [Paper](https://arxiv.org/abs/2003.03033)
 - **_Conceptual Understanding of Convolutional Neural Network- A Deep Learning Approach_** [Paper](https://www.sciencedirect.com/science/article/pii/S1877050918308019)
 - **_Modeling of Pruning Techniques for Deep Neural Networks Simplification_** [Paper](https://arxiv.org/abs/2001.04062)
-- **_Machine learning: An algorithmic perspective. (Chapter 4)_**[Buchkapitel]()
-- **_Pruning Filters for Efficient ConvNets_**
-- **_Very Deep Convolutional Networks for Large-Scale Image Recognition_**
+- **_Machine learning: An algorithmic perspective. (Chapter 4)_** [Buchkapitel]()
+- **_Pruning Filters for Efficient ConvNets_** [Paper](https://arxiv.org/pdf/1608.08710)
+- **_Very Deep Convolutional Networks for Large-Scale Image Recognition_** [Paper](https://arxiv.org/pdf/1409.1556)
+- **_Structured Pruning for Deep Convolutional Neural Networks: A survey_** [Paper](https://arxiv.org/pdf/2303.00566)
+- 
 
 ## Leichtere Texte
 - **_A Beginner's Guide to Neural Network Pruning_** [Link](https://analyticsindiamag.com/a-beginners-guide-to-neural-network-pruning/)
@@ -23,7 +26,7 @@
 
   
 ## Videos
-- **_Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks_** [Paper](https://arxiv.org/abs/2102.00554)<br>
+- **_Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks_**<br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=H7-p3OWPpEI
 " target="_blank"><img src="http://img.youtube.com/vi/H7-p3OWPpEI/0.jpg" 
 alt="Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks" width="240" height="180" border="500" /></a><br>
