@@ -1,4 +1,4 @@
-name: model-pruning
+name: cnn-model-pruning
 channels:
   - defaults
   - conda-forge

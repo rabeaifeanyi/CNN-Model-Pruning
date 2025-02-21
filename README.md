@@ -20,10 +20,10 @@ Vor den nachfolgenden Installationsanleitungen zunächst dieses Repository klone
 
 ``` bash
 # Klonen des Repositorys
-git clone https://github.com/rabeaifeanyi/Model-Pruning.git
+git clone https://github.com/rabeaifeanyi/CNN-Model-Pruning.git
 
 # In das Projektverzeichnis wechseln
-cd Model-Pruning
+cd CNN-Model-Pruning
 ```
 Die App kann auf drei Arten installiert werden: Docker, Conda oder Virtual Enviropnment.
 
@@ -31,7 +31,7 @@ Die App kann auf drei Arten installiert werden: Docker, Conda oder Virtual Envir
 
 ``` bash
 # Docker-Image bauen
-docker build -t model-pruning .
+docker build -t cnn-model-pruning .
 ```
 
 ### Installation mit  Conda-Environment (empfohlen)
@@ -43,7 +43,7 @@ Siehe [Conda Cheat Sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloa
 conda env create -f environment.yml
 
 # Environment aktivieren
-conda activate model-pruning
+conda activate cnn-model-pruning
 
 ```
 
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ### Vorbereitung
 
 1. Überprüfen, ob die Installation erfolgreich war.
-2. In das Verzeichnis *Model-Pruning* navigieren.
+2. In das Verzeichnis *CNN-Model-Pruning* navigieren.
 
 ### Start der Anwendung und Auswählen des Modells
 
@@ -75,10 +75,10 @@ pip install -r requirements.txt
 ``` bash
 # MIT DOCKER
 # Starten des Docker Containers, wenn kein eigenes Modell vorhanden ist
-docker run --gpus all -p 8080:8080 model-pruning
+docker run --gpus all -p 8080:8080 cnn-model-pruning
 
 # Starten des Containers mit eigenem Modell
-docker run --gpus all -p 8080:8080 -v <Modell-Pfad>:/app/Models/<Name vom Modell>.pth -d model-pruning #Pfad und Namen anpassen
+docker run --gpus all -p 8080:8080 -v <Modell-Pfad>:/app/Models/<Name vom Modell>.pth -d cnn-model-pruning #Pfad und Namen anpassen
 
 
 # ANSONSTEN
